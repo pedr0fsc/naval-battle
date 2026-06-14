@@ -51,6 +51,7 @@ public abstract class Jogador implements Serializable, Persistivel {
      * CHAMADA POLIMÓRFICA: navio.eAfundado() via referência Navio.
      */
     public boolean todosNaviosAfundados() {
+        if (navios.isEmpty()) return false;
         return navios.stream().allMatch(Navio::eAfundado);
     }
 

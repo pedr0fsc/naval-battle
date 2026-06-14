@@ -11,9 +11,10 @@ public class NavioComum extends Navio {
 
     private static final long serialVersionUID = 1L;
 
-    public NavioComum(String posicaoInicial, Direcao direcao, int tamanho) {
-        super(posicaoInicial, direcao, tamanho);
+    public NavioComum(TipoNavio tipo, String posicaoInicial, Direcao direcao, int tamanho) {
+        super(tipo, posicaoInicial, direcao, tamanho);
     }
+
 
     /**
      * Afunda quando TODAS as seções foram atingidas.

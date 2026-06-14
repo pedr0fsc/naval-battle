@@ -20,7 +20,7 @@ import java.io.IOException;
  *    java -cp out P1 dados\configuracao.txt dados\partida.bin (Windows)
  *    java -cp out P1 dados/configuracao.txt dados/partida.bin (Linux/Mac)
  */
-public class P1 {
+public class  P1 {
 
     // File.separator garante o separador correto em cada sistema operacional
     // Windows usa \ e Linux/Mac usam /

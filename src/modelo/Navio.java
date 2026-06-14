@@ -22,6 +22,7 @@ public abstract class Navio implements Serializable, Persistivel {
 
     private static final long serialVersionUID = 1L;
 
+    private final TipoNavio tipo;
     // Posição inicial lida do arquivo (ex: "a5")
     private final String posicaoInicial;
     // Direção de expansão lida do arquivo
@@ -33,7 +34,8 @@ public abstract class Navio implements Serializable, Persistivel {
     // Células ocupadas no tabuleiro [linha][coluna] após posicionamento
     private final List<int[]> celulas;
 
-    public Navio(String posicaoInicial, Direcao direcao, int tamanho) {
+    public Navio(TipoNavio tipo, String posicaoInicial, Direcao direcao, int tamanho) {
+        this.tipo             = tipo;
         this.posicaoInicial   = posicaoInicial;
         this.direcao          = direcao;
         this.tamanho          = tamanho;
@@ -41,6 +43,8 @@ public abstract class Navio implements Serializable, Persistivel {
         this.celulas          = new ArrayList<>();
         for (int i = 0; i < tamanho; i++) seccoesAtingidas.add(false);
     }
+    
+    public TipoNavio getTipo() { return tipo; }
 
     // ----------------------------------------------------------------
     // Método abstrato — chamada polimórfica via referência Navio

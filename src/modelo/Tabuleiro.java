@@ -20,6 +20,10 @@ public class Tabuleiro implements Serializable, Persistivel {
         VAZIA('.'), NAVIO('N'), AGUA('~'), ACERTO('X');
         final char simbolo;
         Celula(char s) { this.simbolo = s; }
+
+        public boolean podeRevelar() {
+            return this != NAVIO;
+        }
     }
 
     private static final int TAMANHO = 10;
@@ -79,6 +83,10 @@ public class Tabuleiro implements Serializable, Persistivel {
 
     public boolean celulaLivre(int linha, int coluna) {
         return grade[linha][coluna] == Celula.VAZIA;
+    }
+
+    public boolean foiAtacado(int linha, int coluna) {
+        return grade[linha][coluna] == Celula.AGUA || grade[linha][coluna] == Celula.ACERTO;
     }
 
     public Celula getCelula(int linha, int coluna) {

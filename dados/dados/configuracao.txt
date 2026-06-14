@@ -1,15 +1,15 @@
-5
+# Quantidade total de navios por jogador (1 a 10)
+7
 
+# Nome do jogador humano
 Pedro
-a1 d
-c2 r
-e4 d
-b7 r
-h3 d
 
-Sophia
-j1 u
-g2 l
-a6 r
-d9 r
-i8 u
+# Formato: tipo posição direção (ex: fragata a1 d)
+# Tipos: fragata, submarino, cruzador, encouracado, porta_avioes
+fragata a1 d
+submarino c2 r
+submarino d4 d
+cruzador b8 u
+encouracado i8 l
+encouracado h2 d
+porta_avioes d10 r

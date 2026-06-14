@@ -32,7 +32,6 @@ public class ControleJogo {
     public String registrarAtaque(int linha, int coluna) 
             throws JogadaInvalidaException, PosicaoJaAtacadaException {
 
-        
         if (linha < 0 || linha >= 10 || coluna < 0 || coluna >= 10) {
             throw new JogadaInvalidaException("Coordenada fora dos limites do tabuleiro 10x10.");
         }
@@ -41,29 +40,32 @@ public class ControleJogo {
         Tabuleiro tabuleiroOponente = oponente.getTabuleiro();
         Celula estadoAtual = tabuleiroOponente.getCelula(linha, coluna);
 
-        
         if (estadoAtual == Celula.AGUA || estadoAtual == Celula.ACERTO) {
             throw new PosicaoJaAtacadaException("Esta posição já foi atacada anteriormente!", linha, coluna);
         }
 
-        String resultadoLog;
+        StringBuilder sb = new StringBuilder();
 
         if (estadoAtual == Celula.NAVIO) {
             tabuleiroOponente.setCelula(linha, coluna, Celula.ACERTO);
             
-            atualizarSeccaoNavio(oponente, linha, coluna);
+            String afundouMsg = atualizarSeccaoNavio(oponente, linha, coluna);
             
-            resultadoLog = String.format("ACERTOU! %s bombardeou [%d, %c] do oponente.", 
-                    jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna));
+            sb.append(String.format("ACERTOU! %s bombardeou [%d, %c] do oponente.", 
+                    jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna)));
+            
+            if (afundouMsg != null) {
+                sb.append("\n").append(afundouMsg);
+            }
         } else {
             tabuleiroOponente.setCelula(linha, coluna, Celula.AGUA);
-            resultadoLog = String.format("ÁGUA! %s disparou em [%d, %c].", 
-                    jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna));
+            sb.append(String.format("ÁGUA! %s disparou em [%d, %c].", 
+                    jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna)));
             
             alternarTurno(); 
         }
 
-        return resultadoLog;
+        return sb.toString();
     }
 
 
@@ -81,17 +83,21 @@ public class ControleJogo {
         return registrarAtaque(linhaAleatoria, colunaAleatoria);
     }
 
-    private void atualizarSeccaoNavio(Jogador oponente, int linhaAlvo, int colunaAlvo) {
+    private String atualizarSeccaoNavio(Jogador oponente, int linhaAlvo, int colunaAlvo) {
         for (Navio navio : oponente.getNavios()) {
             List<int[]> celulas = navio.getCelulas();
             for (int i = 0; i < celulas.size(); i++) {
                 int[] c = celulas.get(i);
                 if (c[0] == linhaAlvo && c[1] == colunaAlvo) {
-                    navio.receberAtaque(i); 
-                    return;
+                    if (navio.receberAtaque(i)) {
+                        return String.format(">>> AFUNDOU! O %s de %s foi destruído!", 
+                                navio.getTipo(), oponente.getNome());
+                    }
+                    return null;
                 }
             }
         }
+        return null;
     }
 
     public void alternarTurno() {
