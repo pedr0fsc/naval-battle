@@ -19,6 +19,8 @@ public class ControleJogo {
     private final Jogador jogador2;
     private Jogador jogadorAtual;
     private final Random random;
+    private final List<int[]> alvosIA = new java.util.ArrayList<>();
+
 
     public ControleJogo(Partida partida) {
         this.partida = partida;
@@ -54,17 +56,19 @@ public class ControleJogo {
 
         if (estadoAtual == Celula.NAVIO) {
             tabuleiroOponente.setCelula(linha, coluna, Celula.ACERTO);
-            
+
+            if (jogadorAtual == jogador2) {
+                adicionarAlvosVizinhos(linha, coluna);
+            }
             String afundouMsg = atualizarSeccaoNavio(oponente, linha, coluna);
             
             sb.append(String.format("ACERTOU! %s bombardeou [%d, %c] do oponente.", 
                     jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna)));
-
             LoggerPartida.registrar("Acerto");
+
             if (afundouMsg != null) {
                 sb.append("\n").append(afundouMsg);
                 LoggerPartida.registrar(afundouMsg);
-
             }
 
 
@@ -73,10 +77,8 @@ public class ControleJogo {
             sb.append(String.format("ÁGUA! %s disparou em [%d, %c].", 
                     jogadorAtual.getNome(), (linha + 1), (char)('a' + coluna)));
             LoggerPartida.registrar("Água");
-            
             alternarTurno(); 
         }
-
         return sb.toString();
     }
 
@@ -85,14 +87,46 @@ public class ControleJogo {
         Jogador oponente = (jogadorAtual == jogador1) ? jogador2 : jogador1;
         Tabuleiro tabOponente = oponente.getTabuleiro();
 
-        int linhaAleatoria, colunaAleatoria;
-        do {
-            linhaAleatoria = random.nextInt(10);
-            colunaAleatoria = random.nextInt(10);
-        } while (tabOponente.getCelula(linhaAleatoria, colunaAleatoria) == Celula.AGUA ||
-                 tabOponente.getCelula(linhaAleatoria, colunaAleatoria) == Celula.ACERTO);
+        // Modo de caça da COMPUTADOR
+        while (!alvosIA.isEmpty()) {
+            int[] alvo = alvosIA.remove(0);
+            int linha = alvo[0];
+            int coluna = alvo[1];
+            if (linha < 0 || linha >= 10 || coluna < 0 || coluna >= 10) {continue;}
+            Celula estado = tabOponente.getCelula(linha, coluna);
+            if (estado != Celula.AGUA && estado != Celula.ACERTO) {
+                return registrarAtaque(linha, coluna);
+            }
+        }
 
+       // Modo aleatório
+        int linhaAleatoria;
+        int colunaAleatoria;
+
+        do {linhaAleatoria = random.nextInt(10);
+            colunaAleatoria = random.nextInt(10);
+        } while (tabOponente.getCelula(linhaAleatoria, colunaAleatoria) ==
+                Celula.AGUA || tabOponente.getCelula(linhaAleatoria, colunaAleatoria) == Celula.ACERTO
+        );
         return registrarAtaque(linhaAleatoria, colunaAleatoria);
+
+    }
+    // Quando o computador acerta, ele guarda alvo adjacentes
+    private void adicionarAlvosVizinhos(int linha, int coluna) {
+
+        int[][] direcoes = {
+                {-1, 0},
+                {1, 0},
+                {0, -1},
+                {0, 1}
+        };
+        for (int[] d : direcoes) {
+            int novaLinha = linha + d[0];
+            int novaColuna = coluna + d[1];
+            if (novaLinha >= 0 && novaLinha < 10 && novaColuna >= 0 && novaColuna < 10) {
+                alvosIA.add(new int[]{novaLinha, novaColuna});
+            }
+        }
     }
 
     private String atualizarSeccaoNavio(Jogador oponente, int linhaAlvo, int colunaAlvo) {

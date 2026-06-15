@@ -1,99 +1,280 @@
-20:47:55 - Pedro atirou em D9
-20:47:55 - Água
-20:47:55 - Computador atirou em E3
-20:47:55 - Água
-20:48:12 - Pedro atirou em E8
-20:48:12 - Água
-20:48:12 - Computador atirou em I6
-20:48:12 - Água
-20:48:14 - Pedro atirou em E7
-20:48:14 - Água
-20:48:15 - Computador atirou em D4
-20:48:15 - Acerto
-20:48:15 - Computador atirou em I7
-20:48:15 - Água
-20:48:16 - Pedro atirou em E6
-20:48:16 - Água
-20:48:17 - Computador atirou em B3
-20:48:17 - Água
-20:48:20 - Pedro atirou em E5
-20:48:20 - Acerto
-20:48:35 - Pedro atirou em D4
-20:48:35 - Água
-20:48:36 - Computador atirou em H5
-20:48:36 - Acerto
-20:48:37 - Computador atirou em A9
-20:48:37 - Água
-20:48:39 - Pedro atirou em E4
-20:48:39 - Água
-20:48:40 - Computador atirou em E8
-20:48:40 - Água
-20:48:41 - Pedro atirou em D5
-20:48:41 - Acerto
-20:48:44 - Pedro atirou em C5
-20:48:44 - Acerto
-20:48:45 - Pedro atirou em B5
-20:48:45 - Acerto
-20:48:52 - Pedro atirou em A5
-20:48:52 - Acerto
-20:48:55 - Pedro atirou em F5
-20:48:55 - Acerto
-20:48:55 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
-20:49:08 - Pedro atirou em A6
-20:49:08 - Acerto
-20:49:10 - Pedro atirou em B6
-20:49:10 - Acerto
-20:49:11 - Pedro atirou em C6
-20:49:11 - Acerto
-20:49:12 - Pedro atirou em C7
-20:49:12 - Acerto
-20:49:13 - Pedro atirou em C8
-20:49:13 - Acerto
-20:49:19 - Pedro atirou em A8
-20:49:19 - Acerto
-20:49:21 - Pedro atirou em B10
-20:49:21 - Água
-20:49:22 - Computador atirou em E4
-20:49:22 - Água
-20:49:24 - Pedro atirou em C10
-20:49:24 - Água
-20:49:24 - Computador atirou em E9
-20:49:24 - Água
-20:49:26 - Pedro atirou em D10
-20:49:26 - Água
-20:49:27 - Computador atirou em C2
-20:49:27 - Acerto
-20:49:28 - Computador atirou em G4
-20:49:28 - Água
-20:49:31 - Pedro atirou em A7
-20:49:31 - Acerto
-20:49:31 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
-20:49:32 - Pedro atirou em G9
-20:49:32 - Acerto
-20:49:33 - Pedro atirou em G10
-20:49:33 - Acerto
-20:49:33 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
-20:49:36 - Pedro atirou em F6
-20:49:36 - Acerto
-20:49:37 - Pedro atirou em G6
-20:49:37 - Acerto
-20:49:38 - Pedro atirou em H6
-20:49:38 - Acerto
-20:49:38 - Pedro atirou em I6
-20:49:38 - Acerto
-20:49:39 - Pedro atirou em J6
-20:49:39 - Acerto
-20:49:39 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
-20:49:41 - Pedro atirou em B4
-20:49:41 - Acerto
-20:49:42 - Pedro atirou em B3
-20:49:42 - Acerto
-20:49:42 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
-20:49:43 - Pedro atirou em C4
-20:49:43 - Acerto
-20:49:43 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
-20:49:44 - Pedro atirou em E2
-20:49:44 - Acerto
-20:49:45 - Pedro atirou em E1
-20:49:45 - Acerto
-20:49:45 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
+
+20:15:30 - Pedro atirou em B5
+20:15:30 - Acerto
+20:15:30 - Pedro atirou em C5
+20:15:30 - Acerto
+20:15:31 - Pedro atirou em D5
+20:15:31 - Acerto
+20:15:35 - Pedro atirou em E5
+20:15:35 - Acerto
+20:15:35 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+20:15:36 - Pedro atirou em C6
+20:15:36 - Acerto
+20:15:36 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!
+20:15:37 - Pedro atirou em C8
+20:15:37 - Acerto
+20:15:38 - Pedro atirou em B9
+20:15:38 - Acerto
+20:15:40 - Pedro atirou em B8
+20:15:40 - Acerto
+20:15:41 - Pedro atirou em C9
+20:15:41 - Acerto
+20:15:42 - Pedro atirou em D8
+20:15:42 - Acerto
+20:15:43 - Pedro atirou em E8
+20:15:43 - Acerto
+20:15:44 - Pedro atirou em F8
+20:15:44 - Acerto
+20:15:44 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+20:15:45 - Pedro atirou em A9
+20:15:45 - Acerto
+20:15:45 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+20:15:46 - Pedro atirou em I8
+20:15:46 - Acerto
+20:15:48 - Pedro atirou em I7
+20:15:48 - Acerto
+20:15:49 - Pedro atirou em I9
+20:15:49 - Acerto
+20:15:51 - Pedro atirou em J6
+20:15:51 - Acerto
+20:15:52 - Pedro atirou em J7
+20:15:52 - Acerto
+20:15:52 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
+20:15:53 - Pedro atirou em I6
+20:15:53 - Acerto
+20:15:54 - Pedro atirou em I5
+20:15:54 - Acerto
+20:15:54 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+20:15:55 - Pedro atirou em D2
+20:15:55 - Acerto
+20:15:56 - Pedro atirou em C2
+20:15:56 - Acerto
+20:15:57 - Pedro atirou em B2
+20:15:57 - Acerto
+20:15:58 - Pedro atirou em A2
+20:15:58 - Acerto
+20:15:58 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+20:18:39 - Pedro atirou em A7
+20:18:39 - Acerto
+20:18:40 - Pedro atirou em A8
+20:18:40 - Acerto
+20:18:41 - Pedro atirou em A9
+20:18:41 - Acerto
+20:18:42 - Pedro atirou em A6
+20:18:42 - Acerto
+20:18:42 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+20:18:42 - Pedro atirou em A5
+20:18:42 - Acerto
+20:18:44 - Pedro atirou em A3
+20:18:44 - Acerto
+20:18:45 - Pedro atirou em A1
+20:18:45 - Acerto
+20:18:46 - Pedro atirou em A2
+20:18:46 - Acerto
+20:18:47 - Pedro atirou em A4
+20:18:47 - Acerto
+20:18:47 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+20:18:48 - Pedro atirou em B5
+20:18:48 - Acerto
+20:18:48 - Pedro atirou em C5
+20:18:48 - Acerto
+20:18:49 - Pedro atirou em D5
+20:18:49 - Acerto
+20:18:50 - Pedro atirou em E5
+20:18:50 - Acerto
+20:18:50 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+20:18:51 - Pedro atirou em G4
+20:18:51 - Acerto
+20:18:53 - Pedro atirou em G2
+20:18:53 - Acerto
+20:18:54 - Pedro atirou em G3
+20:18:54 - Acerto
+20:18:54 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+20:18:55 - Pedro atirou em G1
+20:18:55 - Acerto
+20:18:56 - Pedro atirou em F1
+20:18:56 - Acerto
+20:18:57 - Pedro atirou em E1
+20:18:57 - Acerto
+20:18:57 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+20:18:59 - Pedro atirou em H10
+20:18:59 - Acerto
+20:19:00 - Pedro atirou em H9
+20:19:00 - Acerto
+20:19:00 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
+20:19:01 - Pedro atirou em G10
+20:19:01 - Acerto
+20:19:02 - Pedro atirou em F10
+20:19:02 - Acerto
+20:19:03 - Pedro atirou em E10
+20:19:03 - Acerto
+20:19:04 - Pedro atirou em D10
+20:19:04 - Acerto
+20:19:05 - Pedro atirou em C10
+20:19:05 - Acerto
+20:19:05 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:20 - Pedro atirou em C6
+
+========================================
+INÍCIO DA PARTIDA - 20:25:20 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:21 - Pedro atirou em C7
+
+========================================
+INÍCIO DA PARTIDA - 20:25:21 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:22 - Pedro atirou em C8
+
+========================================
+INÍCIO DA PARTIDA - 20:25:22 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:23 - Pedro atirou em C10
+
+========================================
+INÍCIO DA PARTIDA - 20:25:23 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:25 - Pedro atirou em D9
+
+========================================
+INÍCIO DA PARTIDA - 20:25:25 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:26 - Pedro atirou em E9
+
+========================================
+INÍCIO DA PARTIDA - 20:25:26 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:26 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:27 - Pedro atirou em F9
+
+========================================
+INÍCIO DA PARTIDA - 20:25:27 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:28 - Pedro atirou em F10
+
+========================================
+INÍCIO DA PARTIDA - 20:25:28 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:29 - Pedro atirou em F8
+
+========================================
+INÍCIO DA PARTIDA - 20:25:29 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:30 - Pedro atirou em F7
+
+========================================
+INÍCIO DA PARTIDA - 20:25:30 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:31 - Pedro atirou em D8
+
+========================================
+INÍCIO DA PARTIDA - 20:25:31 - Água
+
+========================================
+INÍCIO DA PARTIDA - 20:25:31 - Computador atirou em H3
+
+========================================
+INÍCIO DA PARTIDA - 20:25:31 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:32 - Computador atirou em H2
+
+========================================
+INÍCIO DA PARTIDA - 20:25:32 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:32 - Computador atirou em H4
+
+========================================
+INÍCIO DA PARTIDA - 20:25:32 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:33 - Computador atirou em G3
+
+========================================
+INÍCIO DA PARTIDA - 20:25:33 - Água
+
+========================================
+INÍCIO DA PARTIDA - 20:25:35 - Pedro atirou em F6
+
+========================================
+INÍCIO DA PARTIDA - 20:25:35 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:35 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:36 - Pedro atirou em C9
+
+========================================
+INÍCIO DA PARTIDA - 20:25:36 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:36 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:38 - Pedro atirou em D5
+
+========================================
+INÍCIO DA PARTIDA - 20:25:38 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:38 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:39 - Pedro atirou em G3
+
+========================================
+INÍCIO DA PARTIDA - 20:25:39 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:40 - Pedro atirou em G4
+
+========================================
+INÍCIO DA PARTIDA - 20:25:40 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:41 - Pedro atirou em G5
+
+========================================
+INÍCIO DA PARTIDA - 20:25:41 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:41 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:42 - Pedro atirou em F4
+
+========================================
+INÍCIO DA PARTIDA - 20:25:42 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:43 - Pedro atirou em F3
+
+========================================
+INÍCIO DA PARTIDA - 20:25:43 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:43 - >>> AFUNDOU! O SUBMARINO de Computador foi destruído!
+
+========================================
+INÍCIO DA PARTIDA - 20:25:44 - Pedro atirou em H9
+
+========================================
+INÍCIO DA PARTIDA - 20:25:44 - Acerto
+
+========================================
+INÍCIO DA PARTIDA - 20:25:44 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!

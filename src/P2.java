@@ -68,10 +68,8 @@ class JanelaJogo extends JFrame {
             if (controle.verificarFimDeJogo()) {
                 Jogador vencedor = controle.getJogador1().todosNaviosAfundados() ? controle.getJogador2()
                         : controle.getJogador1();
-
                 Jogador perdedor = vencedor == controle.getJogador1() ? controle.getJogador2()
                         : controle.getJogador1();
-
                 ResultadoFinal.salvar(vencedor, perdedor);
                 finalizarJogo();
 
@@ -95,10 +93,8 @@ class JanelaJogo extends JFrame {
             if (controle.verificarFimDeJogo()) {
                 Jogador vencedor = controle.getJogador1().todosNaviosAfundados() ? controle.getJogador2()
                         : controle.getJogador1();
-
                 Jogador perdedor = vencedor == controle.getJogador1() ? controle.getJogador2()
                         : controle.getJogador1();
-
                 ResultadoFinal.salvar(vencedor, perdedor);
                 finalizarJogo();
 

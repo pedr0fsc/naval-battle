@@ -1,4 +1,10 @@
+****************************
 Resultado Final 
+Vencedor: Pedro
+Perdedor: Computador
 
+
+**************************** 
+Resultado Final 
 Vencedor: Pedro
 Perdedor: Computador
