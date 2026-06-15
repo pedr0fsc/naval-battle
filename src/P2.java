@@ -2,11 +2,13 @@ import excecoes.JogadaInvalidaException;
 import excecoes.PosicaoJaAtacadaException;
 import logica.ControleJogo;
 import modelo.*;
+import persistencia.ResultadoFinal;
 import persistencia.SerializadorPartida;
 
 import javax.swing.*;
 import java.awt.*;
 import java.io.File;
+
 
 public class P2 {
 
@@ -64,7 +66,15 @@ class JanelaJogo extends JFrame {
             atualizarVisualizacao();
 
             if (controle.verificarFimDeJogo()) {
+                Jogador vencedor = controle.getJogador1().todosNaviosAfundados() ? controle.getJogador2()
+                        : controle.getJogador1();
+
+                Jogador perdedor = vencedor == controle.getJogador1() ? controle.getJogador2()
+                        : controle.getJogador1();
+
+                ResultadoFinal.salvar(vencedor, perdedor);
                 finalizarJogo();
+
             } else if (controle.getJogadorAtual() instanceof modelo.JogadorIA) {
                 javax.swing.Timer timer = new javax.swing.Timer(500, e -> jogarIA());
                 timer.setRepeats(false);
@@ -83,7 +93,15 @@ class JanelaJogo extends JFrame {
             atualizarVisualizacao();
             
             if (controle.verificarFimDeJogo()) {
+                Jogador vencedor = controle.getJogador1().todosNaviosAfundados() ? controle.getJogador2()
+                        : controle.getJogador1();
+
+                Jogador perdedor = vencedor == controle.getJogador1() ? controle.getJogador2()
+                        : controle.getJogador1();
+
+                ResultadoFinal.salvar(vencedor, perdedor);
                 finalizarJogo();
+
             } else if (controle.getJogadorAtual() instanceof modelo.JogadorIA) {
                 javax.swing.Timer timer = new javax.swing.Timer(500, e -> jogarIA());
                 timer.setRepeats(false);
