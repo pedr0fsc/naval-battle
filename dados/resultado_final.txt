@@ -8,3 +8,27 @@ Perdedor: Computador
 Resultado Final 
 Vencedor: Pedro
 Perdedor: Computador
+
+
+**************************** 
+Resultado Final 
+Vencedor: Computador
+Perdedor: Pedro
+
+
+**************************** 
+Resultado Final 
+Vencedor: Computador
+Perdedor: Pedro
+
+
+**************************** 
+Resultado Final 
+Vencedor: Computador
+Perdedor: Pedro
+
+
+**************************** 
+Resultado Final 
+Vencedor: Pedro
+Perdedor: Computador

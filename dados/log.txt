@@ -278,3 +278,1166 @@ INÍCIO DA PARTIDA - 20:25:44 - Acerto
 
 ========================================
 INÍCIO DA PARTIDA - 20:25:44 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!
+21:16:06 - Pedro atirou em E2
+21:16:06 - Água
+21:16:07 - Computador atirou em I8
+21:16:07 - Acerto
+21:16:07 - Computador atirou em I9
+21:16:07 - Água
+21:16:30 - Pedro atirou em C3
+21:16:30 - Água
+21:16:31 - Computador atirou em G7
+21:16:31 - Água
+21:16:32 - Pedro atirou em E3
+21:16:32 - Água
+21:16:32 - Computador atirou em G9
+21:16:32 - Água
+21:16:34 - Pedro atirou em F6
+21:16:34 - Acerto
+21:16:35 - Pedro atirou em G6
+21:16:35 - Acerto
+21:16:36 - Pedro atirou em H6
+21:16:36 - Acerto
+21:16:36 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:16:38 - Pedro atirou em I6
+21:16:38 - Água
+21:16:38 - Computador atirou em I5
+21:16:38 - Água
+21:16:40 - Pedro atirou em E6
+21:16:40 - Água
+21:16:41 - Computador atirou em C7
+21:16:41 - Água
+21:16:43 - Pedro atirou em B6
+21:16:43 - Água
+21:16:43 - Computador atirou em I6
+21:16:43 - Água
+21:16:45 - Pedro atirou em G2
+21:16:45 - Água
+21:16:45 - Computador atirou em J4
+21:16:45 - Água
+21:16:46 - Pedro atirou em I9
+21:16:46 - Acerto
+21:16:48 - Pedro atirou em H9
+21:16:48 - Água
+21:16:48 - Computador atirou em F9
+21:16:48 - Água
+21:16:49 - Pedro atirou em G9
+21:16:49 - Acerto
+21:16:51 - Pedro atirou em F9
+21:16:51 - Acerto
+21:16:52 - Pedro atirou em E9
+21:16:52 - Acerto
+21:16:52 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:16:53 - Pedro atirou em D9
+21:16:53 - Água
+21:16:54 - Computador atirou em F4
+21:16:54 - Água
+21:16:56 - Pedro atirou em J9
+21:16:56 - Água
+21:16:56 - Computador atirou em H8
+21:16:56 - Acerto
+21:16:57 - Computador atirou em H9
+21:16:57 - Água
+21:16:59 - Pedro atirou em I8
+21:16:59 - Acerto
+21:17:01 - Pedro atirou em I10
+21:17:01 - Acerto
+21:17:03 - Pedro atirou em B8
+21:17:03 - Água
+21:17:04 - Computador atirou em H7
+21:17:04 - Água
+21:17:05 - Pedro atirou em C7
+21:17:05 - Água
+21:17:05 - Computador atirou em I8
+21:17:05 - Acerto
+21:17:06 - Computador atirou em J8
+21:17:06 - Água
+21:17:07 - Pedro atirou em D5
+21:17:07 - Água
+21:17:08 - Computador atirou em G8
+21:17:08 - Acerto
+21:17:08 - Computador atirou em F8
+21:17:08 - Acerto
+21:17:08 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:17:09 - Computador atirou em B3
+21:17:09 - Água
+21:17:10 - Pedro atirou em F4
+21:17:10 - Água
+21:17:11 - Computador atirou em I4
+21:17:11 - Água
+21:17:12 - Pedro atirou em H4
+21:17:12 - Água
+21:17:12 - Computador atirou em I3
+21:17:12 - Água
+21:17:13 - Pedro atirou em I2
+21:17:13 - Água
+21:17:14 - Computador atirou em J9
+21:17:14 - Água
+21:17:15 - Pedro atirou em D1
+21:17:15 - Água
+21:17:15 - Computador atirou em F1
+21:17:15 - Água
+21:17:16 - Pedro atirou em B1
+21:17:16 - Água
+21:17:16 - Computador atirou em E10
+21:17:16 - Acerto
+21:17:17 - Computador atirou em E9
+21:17:17 - Água
+21:17:18 - Pedro atirou em B2
+21:17:18 - Água
+21:17:19 - Computador atirou em F10
+21:17:19 - Acerto
+21:17:20 - Computador atirou em G10
+21:17:20 - Acerto
+21:17:20 - Computador atirou em H10
+21:17:20 - Acerto
+21:17:21 - Computador atirou em I10
+21:17:21 - Água
+21:17:23 - Pedro atirou em B5
+21:17:23 - Água
+21:17:23 - Computador atirou em D10
+21:17:23 - Acerto
+21:17:23 - >>> AFUNDOU! O PORTA_AVIOES de Pedro foi destruído!
+21:17:24 - Computador atirou em C3
+21:17:24 - Água
+21:17:26 - Pedro atirou em D4
+21:17:26 - Água
+21:17:27 - Computador atirou em H4
+21:17:27 - Acerto
+21:17:27 - Computador atirou em H5
+21:17:27 - Acerto
+21:17:28 - Computador atirou em H6
+21:17:28 - Água
+21:17:29 - Pedro atirou em J3
+21:17:29 - Acerto
+21:17:31 - Pedro atirou em J4
+21:17:31 - Água
+21:17:32 - Computador atirou em H3
+21:17:32 - Acerto
+21:17:32 - Computador atirou em H2
+21:17:32 - Acerto
+21:17:32 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:17:33 - Computador atirou em F7
+21:17:33 - Água
+21:17:35 - Pedro atirou em J5
+21:17:35 - Água
+21:17:35 - Computador atirou em A2
+21:17:35 - Água
+21:17:37 - Pedro atirou em F2
+21:17:37 - Água
+21:17:38 - Computador atirou em E4
+21:17:38 - Água
+21:17:39 - Pedro atirou em D6
+21:17:39 - Água
+21:17:40 - Computador atirou em B4
+21:17:40 - Água
+21:17:41 - Pedro atirou em B9
+21:17:41 - Água
+21:17:41 - Computador atirou em C9
+21:17:42 - Água
+21:17:42 - Pedro atirou em C10
+21:17:42 - Água
+21:17:43 - Computador atirou em G5
+21:17:43 - Água
+21:17:45 - Pedro atirou em A5
+21:17:45 - Água
+21:17:45 - Computador atirou em B7
+21:17:45 - Acerto
+21:17:46 - Computador atirou em B8
+21:17:46 - Acerto
+21:17:46 - Computador atirou em B9
+21:17:46 - Água
+21:17:48 - Pedro atirou em A4
+21:17:48 - Água
+21:17:49 - Computador atirou em B6
+21:17:49 - Acerto
+21:17:49 - >>> AFUNDOU! O CRUZADOR de Pedro foi destruído!
+21:17:49 - Computador atirou em E3
+21:17:49 - Água
+21:17:55 - Pedro atirou em J2
+21:17:55 - Água
+21:17:55 - Computador atirou em C6
+21:17:55 - Água
+21:17:58 - Pedro atirou em E2
+21:17:58 - Água
+21:17:58 - Computador atirou em E8
+21:17:58 - Água
+21:17:59 - Pedro atirou em I3
+21:17:59 - Acerto
+21:18:00 - Pedro atirou em H3
+21:18:00 - Acerto
+21:18:01 - Pedro atirou em G3
+21:18:01 - Acerto
+21:18:03 - Pedro atirou em F3
+21:18:03 - Acerto
+21:18:03 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+21:18:04 - Pedro atirou em G4
+21:18:04 - Água
+21:18:04 - Computador atirou em I2
+21:18:04 - Água
+21:18:06 - Pedro atirou em C4
+21:18:06 - Água
+21:18:07 - Computador atirou em G4
+21:18:07 - Água
+21:18:10 - Pedro atirou em E8
+21:18:10 - Acerto
+21:18:12 - Pedro atirou em E7
+21:18:12 - Água
+21:18:13 - Computador atirou em G3
+21:18:13 - Água
+21:18:15 - Pedro atirou em F8
+21:18:15 - Acerto
+21:18:16 - Pedro atirou em G8
+21:18:16 - Água
+21:18:16 - Computador atirou em J6
+21:18:16 - Água
+21:18:19 - Pedro atirou em H7
+21:18:19 - Água
+21:18:20 - Computador atirou em A1
+21:18:20 - Acerto
+21:18:20 - >>> AFUNDOU! O FRAGATA de Pedro foi destruído!
+21:18:20 - Computador atirou em E5
+21:18:20 - Água
+21:18:23 - Pedro atirou em D2
+21:18:23 - Água
+21:18:23 - Computador atirou em I9
+21:18:23 - Água
+21:18:25 - Pedro atirou em G1
+21:18:25 - Água
+21:18:26 - Computador atirou em A9
+21:18:26 - Água
+21:18:27 - Pedro atirou em H1
+21:18:27 - Água
+21:18:27 - Computador atirou em D2
+21:18:27 - Acerto
+21:18:28 - Computador atirou em D3
+21:18:28 - Água
+21:18:29 - Pedro atirou em A8
+21:18:29 - Água
+21:18:29 - Computador atirou em D1
+21:18:29 - Água
+21:18:31 - Pedro atirou em H5
+21:18:31 - Água
+21:18:32 - Computador atirou em E2
+21:18:32 - Água
+21:18:33 - Pedro atirou em F5
+21:18:33 - Água
+21:18:33 - Computador atirou em C2
+21:18:33 - Acerto
+21:18:33 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:18:34 - Computador atirou em I7
+21:18:34 - Água
+21:18:35 - Pedro atirou em J7
+21:18:35 - Água
+21:18:36 - Computador atirou em A3
+21:18:36 - Água
+21:18:38 - Pedro atirou em A2
+21:18:38 - Água
+21:18:38 - Computador atirou em C5
+21:18:38 - Água
+21:18:41 - Pedro atirou em F10
+21:18:41 - Água
+21:18:41 - Computador atirou em A7
+21:18:41 - Água
+21:18:43 - Pedro atirou em D10
+21:18:43 - Água
+21:18:44 - Computador atirou em J3
+21:18:44 - Água
+21:18:46 - Pedro atirou em D3
+21:18:46 - Água
+21:18:46 - Computador atirou em C1
+21:18:46 - Água
+21:18:48 - Pedro atirou em I1
+21:18:48 - Água
+21:18:48 - Computador atirou em A5
+21:18:48 - Água
+21:18:51 - Pedro atirou em A7
+21:18:51 - Acerto
+21:18:51 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!
+21:18:53 - Pedro atirou em A6
+21:18:53 - Água
+21:18:53 - Computador atirou em B10
+21:18:53 - Água
+21:18:54 - Pedro atirou em B7
+21:18:54 - Água
+21:18:55 - Computador atirou em J2
+21:18:55 - Água
+21:19:04 - Pedro atirou em C8
+21:19:04 - Acerto
+21:19:06 - Pedro atirou em D8
+21:19:06 - Acerto
+21:19:06 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:19:10 - Pedro atirou em C5
+21:19:10 - Água
+21:19:11 - Computador atirou em D8
+21:19:11 - Água
+21:19:12 - Pedro atirou em C2
+21:19:12 - Água
+21:19:13 - Computador atirou em B1
+21:19:13 - Água
+21:19:15 - Pedro atirou em E1
+21:19:15 - Água
+21:19:16 - Computador atirou em F3
+21:19:16 - Água
+21:19:18 - Pedro atirou em J6
+21:19:18 - Água
+21:19:19 - Computador atirou em F2
+21:19:19 - Água
+21:19:21 - Pedro atirou em A9
+21:19:21 - Água
+21:19:22 - Computador atirou em D7
+21:19:22 - Água
+21:19:23 - Pedro atirou em C9
+21:19:23 - Água
+21:19:24 - Computador atirou em J5
+21:19:24 - Água
+21:19:25 - Pedro atirou em E5
+21:19:25 - Água
+21:19:26 - Computador atirou em E7
+21:19:26 - Água
+21:19:28 - Pedro atirou em B3
+21:19:28 - Água
+21:19:28 - Computador atirou em B2
+21:19:28 - Água
+21:19:31 - Pedro atirou em J10
+21:19:31 - Água
+21:19:32 - Computador atirou em I1
+21:19:32 - Água
+21:19:33 - Pedro atirou em I5
+21:19:33 - Água
+21:19:34 - Computador atirou em G1
+21:19:34 - Água
+21:19:36 - Pedro atirou em C1
+21:19:36 - Água
+21:19:37 - Computador atirou em E1
+21:19:37 - Água
+21:19:39 - Pedro atirou em A1
+21:19:39 - Água
+21:19:39 - Computador atirou em G2
+21:19:39 - Água
+21:19:42 - Pedro atirou em A10
+21:19:42 - Água
+21:19:43 - Computador atirou em D4
+21:19:43 - Acerto
+21:19:43 - Computador atirou em D5
+21:19:43 - Acerto
+21:19:43 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:22:57 - Pedro atirou em C2
+21:22:57 - Água
+21:22:57 - Computador atirou em E10
+21:22:57 - Acerto
+21:22:58 - Computador atirou em E9
+21:22:58 - Água
+21:22:59 - Pedro atirou em E3
+21:22:59 - Água
+21:23:00 - Computador atirou em F10
+21:23:00 - Acerto
+21:23:00 - Computador atirou em G10
+21:23:00 - Acerto
+21:23:01 - Computador atirou em H10
+21:23:01 - Acerto
+21:23:01 - Computador atirou em I10
+21:23:01 - Água
+21:23:03 - Pedro atirou em D4
+21:23:03 - Água
+21:23:04 - Computador atirou em D10
+21:23:04 - Acerto
+21:23:04 - >>> AFUNDOU! O PORTA_AVIOES de Pedro foi destruído!
+21:23:04 - Computador atirou em I6
+21:23:04 - Água
+21:23:06 - Pedro atirou em B5
+21:23:06 - Água
+21:23:07 - Computador atirou em C2
+21:23:07 - Acerto
+21:23:07 - Computador atirou em C3
+21:23:07 - Água
+21:23:09 - Pedro atirou em D5
+21:23:09 - Água
+21:23:09 - Computador atirou em C1
+21:23:09 - Água
+21:23:11 - Pedro atirou em F6
+21:23:11 - Acerto
+21:23:12 - Pedro atirou em G6
+21:23:12 - Acerto
+21:23:14 - Pedro atirou em H6
+21:23:14 - Acerto
+21:23:14 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:23:15 - Pedro atirou em I6
+21:23:15 - Água
+21:23:15 - Computador atirou em D2
+21:23:15 - Acerto
+21:23:15 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:23:16 - Computador atirou em H8
+21:23:16 - Acerto
+21:23:16 - Computador atirou em H9
+21:23:16 - Água
+21:23:19 - Pedro atirou em E6
+21:23:19 - Água
+21:23:19 - Computador atirou em H7
+21:23:19 - Água
+21:23:21 - Pedro atirou em D6
+21:23:21 - Água
+21:23:21 - Computador atirou em I8
+21:23:21 - Acerto
+21:23:22 - Computador atirou em J8
+21:23:22 - Água
+21:23:23 - Pedro atirou em D7
+21:23:23 - Água
+21:23:24 - Computador atirou em G8
+21:23:24 - Acerto
+21:23:24 - Computador atirou em F8
+21:23:24 - Acerto
+21:23:24 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:23:25 - Computador atirou em F1
+21:23:25 - Água
+21:23:27 - Pedro atirou em G5
+21:23:27 - Água
+21:23:27 - Computador atirou em H2
+21:23:27 - Acerto
+21:23:28 - Computador atirou em H3
+21:23:28 - Acerto
+21:23:28 - Computador atirou em H4
+21:23:28 - Acerto
+21:23:29 - Computador atirou em H5
+21:23:29 - Acerto
+21:23:29 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:23:29 - Computador atirou em C5
+21:23:29 - Água
+21:23:30 - Pedro atirou em I2
+21:23:30 - Água
+21:23:31 - Computador atirou em I9
+21:23:31 - Água
+21:23:32 - Pedro atirou em J4
+21:23:32 - Água
+21:23:32 - Computador atirou em C8
+21:23:32 - Água
+21:23:33 - Pedro atirou em F3
+21:23:33 - Acerto
+21:23:35 - Pedro atirou em G3
+21:23:35 - Acerto
+21:23:36 - Pedro atirou em H3
+21:23:36 - Acerto
+21:23:41 - Pedro atirou em I3
+21:23:41 - Acerto
+21:23:43 - Pedro atirou em I8
+21:23:43 - Acerto
+21:23:44 - Pedro atirou em J8
+21:23:44 - Água
+21:23:45 - Computador atirou em H6
+21:23:45 - Água
+21:23:47 - Pedro atirou em G9
+21:23:47 - Acerto
+21:23:48 - Pedro atirou em F9
+21:23:48 - Acerto
+21:23:49 - Pedro atirou em E9
+21:23:49 - Acerto
+21:23:49 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:23:50 - Pedro atirou em D9
+21:23:50 - Água
+21:23:51 - Computador atirou em I3
+21:23:51 - Água
+21:23:52 - Pedro atirou em H9
+21:23:52 - Água
+21:23:53 - Computador atirou em I2
+21:23:53 - Água
+21:23:54 - Pedro atirou em H8
+21:23:54 - Água
+21:23:55 - Computador atirou em A4
+21:23:55 - Água
+21:23:56 - Pedro atirou em I7
+21:23:56 - Acerto
+21:23:59 - Pedro atirou em J7
+21:23:59 - Água
+21:23:59 - Computador atirou em B4
+21:23:59 - Água
+21:24:01 - Pedro atirou em I9
+21:24:01 - Acerto
+21:24:02 - Pedro atirou em I10
+21:24:02 - Acerto
+21:24:02 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:24:04 - Pedro atirou em B7
+21:24:04 - Água
+21:24:05 - Computador atirou em A7
+21:24:05 - Água
+21:24:05 - Pedro atirou em A6
+21:24:05 - Água
+21:24:06 - Computador atirou em E6
+21:24:06 - Água
+21:24:07 - Pedro atirou em B3
+21:24:07 - Água
+21:24:07 - Computador atirou em A3
+21:24:07 - Água
+21:24:08 - Pedro atirou em G2
+21:24:08 - Água
+21:24:08 - Computador atirou em A2
+21:24:08 - Água
+21:24:10 - Pedro atirou em C8
+21:24:10 - Acerto
+21:24:12 - Pedro atirou em D8
+21:24:12 - Acerto
+21:24:13 - Pedro atirou em E8
+21:24:13 - Acerto
+21:24:14 - Pedro atirou em F8
+21:24:14 - Acerto
+21:24:14 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:24:15 - Pedro atirou em G8
+21:24:15 - Água
+21:24:15 - Computador atirou em B7
+21:24:15 - Acerto
+21:24:16 - Computador atirou em B8
+21:24:16 - Acerto
+21:24:16 - Computador atirou em B9
+21:24:16 - Água
+21:24:18 - Pedro atirou em C9
+21:24:18 - Água
+21:24:19 - Computador atirou em B6
+21:24:19 - Acerto
+21:24:19 - >>> AFUNDOU! O CRUZADOR de Pedro foi destruído!
+21:24:19 - Computador atirou em F4
+21:24:19 - Água
+21:24:21 - Pedro atirou em A8
+21:24:21 - Água
+21:24:21 - Computador atirou em G9
+21:24:21 - Água
+21:24:22 - Pedro atirou em C5
+21:24:22 - Água
+21:24:23 - Computador atirou em F7
+21:24:23 - Água
+21:24:23 - Pedro atirou em C3
+21:24:23 - Água
+21:24:24 - Computador atirou em E3
+21:24:24 - Água
+21:24:24 - Pedro atirou em D2
+21:24:24 - Água
+21:24:25 - Computador atirou em D3
+21:24:25 - Água
+21:24:25 - Pedro atirou em F1
+21:24:25 - Água
+21:24:26 - Computador atirou em D4
+21:24:26 - Acerto
+21:24:26 - Computador atirou em D5
+21:24:26 - Acerto
+21:24:26 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:24:27 - Computador atirou em C6
+21:24:27 - Água
+21:24:27 - Pedro atirou em H1
+21:24:27 - Água
+21:24:28 - Computador atirou em C9
+21:24:28 - Água
+21:24:30 - Pedro atirou em J2
+21:24:30 - Água
+21:24:30 - Computador atirou em A5
+21:24:30 - Água
+21:24:31 - Pedro atirou em B9
+21:24:31 - Água
+21:24:32 - Computador atirou em J7
+21:24:32 - Água
+21:24:32 - Pedro atirou em A10
+21:24:32 - Água
+21:24:33 - Computador atirou em A10
+21:24:33 - Água
+21:24:33 - Pedro atirou em D10
+21:24:33 - Água
+21:24:34 - Computador atirou em F9
+21:24:34 - Água
+21:24:34 - Pedro atirou em G10
+21:24:34 - Água
+21:24:35 - Computador atirou em G7
+21:24:35 - Água
+21:24:35 - Pedro atirou em E5
+21:24:35 - Água
+21:24:36 - Computador atirou em H1
+21:24:36 - Água
+21:24:37 - Pedro atirou em F7
+21:24:37 - Água
+21:24:38 - Computador atirou em C4
+21:24:38 - Água
+21:24:39 - Pedro atirou em A2
+21:24:39 - Água
+21:24:39 - Computador atirou em B2
+21:24:39 - Água
+21:24:40 - Pedro atirou em B1
+21:24:40 - Água
+21:24:40 - Computador atirou em C7
+21:24:40 - Água
+21:24:41 - Pedro atirou em D1
+21:24:41 - Água
+21:24:41 - Computador atirou em G4
+21:24:41 - Água
+21:24:42 - Pedro atirou em H4
+21:24:42 - Água
+21:24:43 - Computador atirou em I4
+21:24:43 - Água
+21:24:44 - Pedro atirou em A4
+21:24:44 - Água
+21:24:44 - Computador atirou em F3
+21:24:44 - Água
+21:24:45 - Pedro atirou em J1
+21:24:45 - Água
+21:24:45 - Computador atirou em J6
+21:24:45 - Água
+21:24:46 - Pedro atirou em J5
+21:24:46 - Água
+21:24:47 - Computador atirou em I1
+21:24:47 - Água
+21:24:47 - Pedro atirou em J9
+21:24:47 - Água
+21:24:48 - Computador atirou em G6
+21:24:48 - Água
+21:24:49 - Pedro atirou em F4
+21:24:49 - Água
+21:24:50 - Computador atirou em J10
+21:24:50 - Água
+21:24:51 - Pedro atirou em E2
+21:24:51 - Água
+21:24:52 - Computador atirou em G2
+21:24:52 - Água
+21:24:54 - Pedro atirou em E10
+21:24:54 - Água
+21:24:54 - Computador atirou em F2
+21:24:54 - Água
+21:24:56 - Pedro atirou em I5
+21:24:56 - Água
+21:24:56 - Computador atirou em G1
+21:24:56 - Água
+21:24:59 - Pedro atirou em A1
+21:24:59 - Água
+21:24:59 - Computador atirou em D8
+21:24:59 - Água
+21:25:01 - Pedro atirou em C6
+21:25:01 - Água
+21:25:02 - Computador atirou em G3
+21:25:02 - Água
+21:25:03 - Pedro atirou em C4
+21:25:03 - Água
+21:25:03 - Computador atirou em J4
+21:25:03 - Água
+21:25:05 - Pedro atirou em B2
+21:25:05 - Água
+21:25:05 - Computador atirou em E4
+21:25:05 - Água
+21:25:06 - Pedro atirou em I1
+21:25:06 - Água
+21:25:06 - Computador atirou em A9
+21:25:06 - Água
+21:25:07 - Pedro atirou em J3
+21:25:07 - Acerto
+21:25:07 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+21:25:16 - Pedro atirou em A9
+21:25:16 - Água
+21:25:17 - Computador atirou em B10
+21:25:17 - Água
+21:25:19 - Pedro atirou em B4
+21:25:19 - Água
+21:25:20 - Computador atirou em A1
+21:25:20 - Acerto
+21:25:20 - >>> AFUNDOU! O FRAGATA de Pedro foi destruído!
+21:33:11 - Pedro atirou em D4
+21:33:11 - Água
+21:33:11 - Computador atirou em D4
+21:33:11 - Acerto
+21:33:12 - Computador atirou em D5
+21:33:12 - Acerto
+21:33:12 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:33:12 - Computador atirou em D9
+21:33:12 - Água
+21:33:13 - Pedro atirou em F3
+21:33:13 - Acerto
+21:33:15 - Pedro atirou em G3
+21:33:15 - Acerto
+21:33:16 - Pedro atirou em H3
+21:33:16 - Acerto
+21:33:17 - Pedro atirou em I3
+21:33:17 - Acerto
+21:33:18 - Pedro atirou em J3
+21:33:18 - Acerto
+21:33:18 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+21:33:19 - Pedro atirou em J5
+21:33:19 - Água
+21:33:20 - Computador atirou em A7
+21:33:20 - Água
+21:33:22 - Pedro atirou em E2
+21:33:22 - Água
+21:33:22 - Computador atirou em H9
+21:33:22 - Água
+21:33:23 - Pedro atirou em B2
+21:33:23 - Água
+21:33:24 - Computador atirou em C10
+21:33:24 - Água
+21:33:24 - Pedro atirou em D6
+21:33:24 - Água
+21:33:25 - Computador atirou em I1
+21:33:25 - Água
+21:33:25 - Pedro atirou em G8
+21:33:25 - Água
+21:33:25 - Computador atirou em F9
+21:33:25 - Água
+21:33:26 - Pedro atirou em I9
+21:33:26 - Acerto
+21:33:27 - Pedro atirou em H9
+21:33:27 - Água
+21:33:28 - Computador atirou em H1
+21:33:28 - Água
+21:33:29 - Pedro atirou em I10
+21:33:29 - Acerto
+21:33:30 - Pedro atirou em I8
+21:33:30 - Acerto
+21:33:31 - Pedro atirou em I7
+21:33:31 - Acerto
+21:33:31 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:33:32 - Pedro atirou em I5
+21:33:32 - Água
+21:33:33 - Computador atirou em F8
+21:33:33 - Acerto
+21:33:33 - Computador atirou em F7
+21:33:33 - Água
+21:33:35 - Pedro atirou em F6
+21:33:35 - Acerto
+21:33:36 - Pedro atirou em F7
+21:33:36 - Água
+21:33:37 - Computador atirou em G8
+21:33:37 - Acerto
+21:33:37 - Computador atirou em H8
+21:33:37 - Acerto
+21:33:38 - Computador atirou em I8
+21:33:38 - Acerto
+21:33:38 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:33:38 - Computador atirou em F1
+21:33:38 - Água
+21:33:39 - Pedro atirou em F5
+21:33:39 - Água
+21:33:39 - Computador atirou em A3
+21:33:39 - Água
+21:33:40 - Pedro atirou em E5
+21:33:40 - Água
+21:33:40 - Computador atirou em F10
+21:33:40 - Acerto
+21:33:41 - Computador atirou em G10
+21:33:41 - Acerto
+21:33:41 - Computador atirou em H10
+21:33:41 - Acerto
+21:33:42 - Computador atirou em I10
+21:33:42 - Água
+21:33:45 - Pedro atirou em E6
+21:33:45 - Água
+21:33:45 - Computador atirou em E10
+21:33:45 - Acerto
+21:33:46 - Computador atirou em D10
+21:33:46 - Acerto
+21:33:46 - >>> AFUNDOU! O PORTA_AVIOES de Pedro foi destruído!
+21:33:46 - Computador atirou em J10
+21:33:46 - Água
+21:33:48 - Pedro atirou em G6
+21:33:48 - Acerto
+21:33:49 - Pedro atirou em H6
+21:33:49 - Acerto
+21:33:49 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:33:50 - Pedro atirou em I6
+21:33:50 - Água
+21:33:50 - Computador atirou em E5
+21:33:50 - Água
+21:33:54 - Pedro atirou em G5
+21:33:54 - Água
+21:33:55 - Computador atirou em I5
+21:33:55 - Água
+21:33:56 - Pedro atirou em C3
+21:33:56 - Água
+21:33:56 - Computador atirou em E9
+21:33:56 - Água
+21:33:57 - Pedro atirou em B5
+21:33:57 - Água
+21:33:57 - Computador atirou em G3
+21:33:57 - Água
+21:33:58 - Pedro atirou em A5
+21:33:58 - Água
+21:33:58 - Computador atirou em B6
+21:33:58 - Acerto
+21:33:59 - Computador atirou em B7
+21:33:59 - Acerto
+21:33:59 - Computador atirou em B8
+21:33:59 - Acerto
+21:33:59 - >>> AFUNDOU! O CRUZADOR de Pedro foi destruído!
+21:34:00 - Computador atirou em A1
+21:34:00 - Acerto
+21:34:00 - >>> AFUNDOU! O FRAGATA de Pedro foi destruído!
+21:34:00 - Computador atirou em C6
+21:34:00 - Água
+21:34:02 - Pedro atirou em C8
+21:34:02 - Acerto
+21:34:04 - Pedro atirou em C9
+21:34:04 - Água
+21:34:04 - Computador atirou em E3
+21:34:04 - Água
+21:34:05 - Pedro atirou em C7
+21:34:05 - Água
+21:34:06 - Computador atirou em F4
+21:34:06 - Água
+21:34:06 - Pedro atirou em B8
+21:34:06 - Água
+21:34:07 - Computador atirou em A4
+21:34:07 - Água
+21:34:08 - Pedro atirou em D8
+21:34:08 - Acerto
+21:34:09 - Pedro atirou em E8
+21:34:09 - Acerto
+21:34:10 - Pedro atirou em F10
+21:34:10 - Água
+21:34:11 - Computador atirou em H5
+21:34:11 - Acerto
+21:34:11 - Computador atirou em H6
+21:34:11 - Água
+21:34:12 - Pedro atirou em D10
+21:34:12 - Água
+21:34:13 - Computador atirou em H4
+21:34:13 - Acerto
+21:34:13 - Computador atirou em H3
+21:34:13 - Acerto
+21:34:14 - Computador atirou em H2
+21:34:14 - Acerto
+21:34:14 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:34:14 - Computador atirou em B1
+21:34:14 - Água
+21:34:15 - Pedro atirou em B9
+21:34:15 - Água
+21:34:15 - Computador atirou em B5
+21:34:15 - Água
+21:34:16 - Pedro atirou em A10
+21:34:16 - Água
+21:34:17 - Computador atirou em G7
+21:34:17 - Água
+21:34:17 - Pedro atirou em A6
+21:34:17 - Água
+21:34:18 - Computador atirou em D7
+21:34:18 - Água
+21:34:19 - Pedro atirou em A3
+21:34:19 - Água
+21:34:19 - Computador atirou em A6
+21:34:19 - Água
+21:34:20 - Pedro atirou em F2
+21:34:20 - Água
+21:34:20 - Computador atirou em J3
+21:34:20 - Água
+21:34:20 - Pedro atirou em H1
+21:34:20 - Água
+21:34:21 - Computador atirou em B3
+21:34:21 - Água
+21:34:21 - Pedro atirou em I2
+21:34:21 - Água
+21:34:22 - Computador atirou em A9
+21:34:22 - Água
+21:34:22 - Pedro atirou em G4
+21:34:22 - Água
+21:34:23 - Computador atirou em D3
+21:34:23 - Água
+21:34:23 - Pedro atirou em F4
+21:34:23 - Água
+21:34:24 - Computador atirou em E1
+21:34:24 - Água
+21:34:24 - Pedro atirou em C1
+21:34:24 - Água
+21:34:25 - Computador atirou em F6
+21:34:25 - Água
+21:34:26 - Pedro atirou em D2
+21:34:26 - Água
+21:34:26 - Computador atirou em J9
+21:34:26 - Água
+21:34:27 - Pedro atirou em B6
+21:34:27 - Água
+21:34:27 - Computador atirou em E4
+21:34:27 - Água
+21:34:28 - Pedro atirou em E9
+21:34:28 - Acerto
+21:34:29 - Pedro atirou em D9
+21:34:29 - Água
+21:34:30 - Computador atirou em C3
+21:34:30 - Água
+21:34:31 - Pedro atirou em F9
+21:34:31 - Acerto
+21:34:32 - Pedro atirou em G9
+21:34:32 - Acerto
+21:34:32 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:34:33 - Pedro atirou em G10
+21:34:33 - Água
+21:34:33 - Computador atirou em F5
+21:34:33 - Água
+21:34:34 - Pedro atirou em H7
+21:34:34 - Água
+21:34:35 - Computador atirou em F2
+21:34:35 - Água
+21:34:35 - Pedro atirou em E7
+21:34:35 - Água
+21:34:35 - Computador atirou em C2
+21:34:35 - Acerto
+21:34:36 - Computador atirou em C1
+21:34:36 - Água
+21:34:37 - Pedro atirou em B4
+21:34:37 - Água
+21:34:37 - Computador atirou em D2
+21:34:37 - Acerto
+21:34:37 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:38:38 - Pedro atirou em D5
+21:38:38 - Água
+21:38:39 - Computador atirou em G2
+21:38:39 - Água
+21:38:39 - Pedro atirou em G4
+21:38:39 - Água
+21:38:39 - Computador atirou em D8
+21:38:39 - Água
+21:38:40 - Pedro atirou em F2
+21:38:40 - Água
+21:38:40 - Computador atirou em C2
+21:38:40 - Acerto
+21:38:41 - Computador atirou em C3
+21:38:41 - Água
+21:38:42 - Pedro atirou em C2
+21:38:42 - Água
+21:38:42 - Computador atirou em C1
+21:38:42 - Água
+21:38:44 - Pedro atirou em E2
+21:38:44 - Água
+21:38:44 - Computador atirou em D2
+21:38:44 - Acerto
+21:38:44 - >>> AFUNDOU! O SUBMARINO de Pedro foi destruído!
+21:38:45 - Computador atirou em C6
+21:38:45 - Água
+21:38:45 - Pedro atirou em G7
+21:38:45 - Água
+21:38:45 - Computador atirou em B4
+21:38:45 - Água
+21:38:46 - Pedro atirou em J3
+21:38:46 - Acerto
+21:38:50 - Pedro atirou em J4
+21:38:50 - Água
+21:38:51 - Computador atirou em G1
+21:38:51 - Água
+21:38:51 - Pedro atirou em J5
+21:38:51 - Água
+21:38:52 - Computador atirou em H1
+21:38:52 - Água
+21:38:52 - Pedro atirou em J2
+21:38:52 - Água
+21:38:53 - Computador atirou em C4
+21:38:53 - Água
+21:38:53 - Pedro atirou em J1
+21:38:53 - Água
+21:38:54 - Computador atirou em E5
+21:38:54 - Água
+21:38:54 - Pedro atirou em I3
+21:38:54 - Acerto
+21:38:55 - Pedro atirou em H3
+21:38:55 - Acerto
+21:38:56 - Pedro atirou em G3
+21:38:56 - Acerto
+21:38:59 - Pedro atirou em F3
+21:38:59 - Acerto
+21:38:59 - >>> AFUNDOU! O PORTA_AVIOES de Computador foi destruído!
+21:39:00 - Pedro atirou em E3
+21:39:00 - Água
+21:39:01 - Computador atirou em E6
+21:39:01 - Água
+21:39:02 - Pedro atirou em D7
+21:39:02 - Água
+21:39:03 - Computador atirou em I5
+21:39:03 - Água
+21:39:03 - Pedro atirou em E9
+21:39:03 - Acerto
+21:39:04 - Pedro atirou em F9
+21:39:04 - Acerto
+21:39:05 - Pedro atirou em G9
+21:39:05 - Acerto
+21:39:05 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:39:06 - Pedro atirou em H9
+21:39:06 - Água
+21:39:06 - Computador atirou em H10
+21:39:06 - Acerto
+21:39:07 - Computador atirou em H9
+21:39:07 - Água
+21:39:08 - Pedro atirou em D9
+21:39:08 - Água
+21:39:08 - Computador atirou em I10
+21:39:08 - Água
+21:39:10 - Pedro atirou em B7
+21:39:10 - Água
+21:39:10 - Computador atirou em G10
+21:39:10 - Acerto
+21:39:11 - Computador atirou em F10
+21:39:11 - Acerto
+21:39:11 - Computador atirou em E10
+21:39:11 - Acerto
+21:39:12 - Computador atirou em D10
+21:39:12 - Acerto
+21:39:12 - >>> AFUNDOU! O PORTA_AVIOES de Pedro foi destruído!
+21:39:12 - Computador atirou em C8
+21:39:12 - Água
+21:39:13 - Pedro atirou em A5
+21:39:13 - Água
+21:39:14 - Computador atirou em I3
+21:39:14 - Água
+21:39:14 - Pedro atirou em B5
+21:39:14 - Água
+21:39:15 - Computador atirou em H8
+21:39:15 - Acerto
+21:39:15 - Computador atirou em H7
+21:39:15 - Água
+21:39:17 - Pedro atirou em G6
+21:39:17 - Acerto
+21:39:18 - Pedro atirou em H6
+21:39:18 - Acerto
+21:39:19 - Pedro atirou em I6
+21:39:19 - Água
+21:39:20 - Computador atirou em I8
+21:39:20 - Acerto
+21:39:20 - Computador atirou em J8
+21:39:20 - Água
+21:39:21 - Pedro atirou em F6
+21:39:21 - Acerto
+21:39:21 - >>> AFUNDOU! O CRUZADOR de Computador foi destruído!
+21:39:22 - Pedro atirou em E6
+21:39:22 - Água
+21:39:23 - Computador atirou em G8
+21:39:23 - Acerto
+21:39:23 - Computador atirou em F8
+21:39:23 - Acerto
+21:39:23 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:39:24 - Computador atirou em A3
+21:39:24 - Água
+21:39:25 - Pedro atirou em B3
+21:39:25 - Água
+21:39:25 - Computador atirou em C10
+21:39:25 - Água
+21:39:26 - Pedro atirou em A2
+21:39:26 - Água
+21:39:26 - Computador atirou em I9
+21:39:26 - Água
+21:39:27 - Pedro atirou em G1
+21:39:27 - Água
+21:39:27 - Computador atirou em C9
+21:39:27 - Água
+21:39:28 - Pedro atirou em I8
+21:39:28 - Acerto
+21:39:29 - Pedro atirou em J8
+21:39:29 - Água
+21:39:30 - Computador atirou em F5
+21:39:30 - Água
+21:39:31 - Pedro atirou em I7
+21:39:31 - Acerto
+21:39:32 - Pedro atirou em I9
+21:39:32 - Acerto
+21:39:33 - Pedro atirou em I10
+21:39:33 - Acerto
+21:39:33 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:39:34 - Pedro atirou em H10
+21:39:34 - Acerto
+21:39:34 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!
+21:39:35 - Pedro atirou em G10
+21:39:35 - Água
+21:39:36 - Computador atirou em D1
+21:39:36 - Água
+21:39:38 - Pedro atirou em C9
+21:39:38 - Água
+21:39:38 - Computador atirou em G4
+21:39:38 - Água
+21:39:39 - Pedro atirou em A9
+21:39:39 - Água
+21:39:39 - Computador atirou em I1
+21:39:39 - Água
+21:39:40 - Pedro atirou em A10
+21:39:40 - Água
+21:39:40 - Computador atirou em H3
+21:39:40 - Acerto
+21:39:41 - Computador atirou em H4
+21:39:41 - Acerto
+21:39:41 - Computador atirou em H5
+21:39:41 - Acerto
+21:39:42 - Computador atirou em H6
+21:39:42 - Água
+21:39:43 - Pedro atirou em B6
+21:39:43 - Água
+21:39:43 - Computador atirou em H2
+21:39:43 - Acerto
+21:39:43 - >>> AFUNDOU! O ENCOURACADO de Pedro foi destruído!
+21:39:44 - Computador atirou em A6
+21:39:44 - Água
+21:39:44 - Pedro atirou em C4
+21:39:44 - Água
+21:39:45 - Computador atirou em G3
+21:39:45 - Água
+21:39:45 - Pedro atirou em E4
+21:39:45 - Água
+21:39:46 - Computador atirou em J6
+21:39:46 - Água
+21:39:46 - Pedro atirou em C1
+21:39:46 - Água
+21:39:47 - Computador atirou em G9
+21:39:47 - Água
+21:39:47 - Pedro atirou em H2
+21:39:47 - Água
+21:39:48 - Computador atirou em F6
+21:39:48 - Água
+21:39:48 - Pedro atirou em H4
+21:39:48 - Água
+21:39:49 - Computador atirou em B1
+21:39:49 - Água
+21:39:49 - Pedro atirou em F5
+21:39:49 - Água
+21:39:50 - Computador atirou em D7
+21:39:50 - Água
+21:39:53 - Pedro atirou em E8
+21:39:53 - Acerto
+21:39:54 - Pedro atirou em F8
+21:39:54 - Acerto
+21:39:55 - Pedro atirou em G8
+21:39:55 - Água
+21:39:55 - Computador atirou em I7
+21:39:55 - Água
+21:39:56 - Pedro atirou em D8
+21:39:56 - Acerto
+21:39:57 - Pedro atirou em C8
+21:39:57 - Acerto
+21:39:57 - >>> AFUNDOU! O ENCOURACADO de Computador foi destruído!
+21:39:59 - Pedro atirou em B8
+21:39:59 - Água
+21:39:59 - Computador atirou em A7
+21:39:59 - Água
+21:40:00 - Pedro atirou em C5
+21:40:00 - Água
+21:40:01 - Computador atirou em E8
+21:40:01 - Água
+21:40:01 - Pedro atirou em C6
+21:40:01 - Água
+21:40:02 - Computador atirou em B3
+21:40:02 - Água
+21:40:02 - Pedro atirou em D1
+21:40:02 - Água
+21:40:03 - Computador atirou em F7
+21:40:03 - Água
+21:40:03 - Pedro atirou em D3
+21:40:03 - Água
+21:40:04 - Computador atirou em B5
+21:40:04 - Água
+21:40:05 - Pedro atirou em I1
+21:40:05 - Água
+21:40:06 - Computador atirou em A8
+21:40:06 - Água
+21:40:06 - Pedro atirou em H5
+21:40:06 - Água
+21:40:07 - Computador atirou em I6
+21:40:07 - Água
+21:40:08 - Pedro atirou em J7
+21:40:08 - Água
+21:40:08 - Computador atirou em B6
+21:40:08 - Acerto
+21:40:09 - Computador atirou em B7
+21:40:09 - Acerto
+21:40:09 - Computador atirou em B8
+21:40:09 - Acerto
+21:40:09 - >>> AFUNDOU! O CRUZADOR de Pedro foi destruído!
+21:40:10 - Computador atirou em A9
+21:40:10 - Água
+21:40:11 - Pedro atirou em A4
+21:40:11 - Água
+21:40:11 - Computador atirou em B9
+21:40:11 - Água
+21:40:12 - Pedro atirou em A7
+21:40:12 - Acerto
+21:40:12 - >>> AFUNDOU! O FRAGATA de Computador foi destruído!

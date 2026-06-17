@@ -119,6 +119,6 @@ class JanelaJogo extends JFrame {
         boolean isTurnoHumano = (controle.getJogadorAtual() == humano);
 
         panelDefesa.atualizar(humano.getTabuleiro(), true, false);
-        panelAtaque.atualizar(ia.getTabuleiro(), true, isTurnoHumano);
+        panelAtaque.atualizar(ia.getTabuleiro(), false, isTurnoHumano);
     }
 }
